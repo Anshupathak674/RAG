@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+.cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+# Private documents must be an explicit opt-in to version control.
+data/private/

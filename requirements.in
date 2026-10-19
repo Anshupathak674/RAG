@@ -1,0 +1,5 @@
+# Direct dependencies for Phase 1 only. requirements.txt records the resolved snapshot.
+jupyterlab>=4.4,<5
+ipykernel>=6.29,<8
+nbclient>=0.10,<1
+nbformat>=5.10,<6
